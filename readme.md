@@ -39,9 +39,6 @@ Un proyecto CRUD para gestionar contactos utilizando Flask y SQLAlchemy.
    ```
 6. Abre tu navegador y accede a `http://localhost:5000`.
 
-## 📷 Captura de Pantalla
-![Lista de Contactos](ruta/a/tu/imagen.png)
-
 ## 📜 Licencia
 Este proyecto es solo para fines de práctica. ¡Úsalo y modifícalo como quieras! 🚀
 
