@@ -1,19 +1,20 @@
 # FlaskSQLAlchemyCRUD 🚀
 
-Un proyecto de práctica tipo CRUD para gestionar contactos. Se encuentra en desarrollo y utiliza las siguientes tecnologías:
+Un proyecto CRUD para gestionar contactos utilizando Flask y SQLAlchemy.
 
+## 🛠️ Tecnologías utilizadas
 - **Flask** 🔥 (Framework backend)
 - **SQLAlchemy** 🛢️ (ORM para base de datos)
 - **MySQL** 🐬 (Base de datos relacional)
 - **Bootstrap** 🎨 (Diseño frontend)
 
-## 🚧 Estado del Proyecto
-🔨 En desarrollo...
+## 🚀 Estado del Proyecto
+✅ Proyecto terminado.
 
 ## 📌 Características
-✅ CRUD de contactos (Crear, Leer, Actualizar, Eliminar).  
-✅ Integración con Bootstrap para mejorar la interfaz.  
-✅ Uso de SQLAlchemy como ORM.  
+✅ CRUD completo de contactos (Crear, Leer, Actualizar, Eliminar).  
+✅ Interfaz mejorada con Bootstrap.  
+✅ Uso de SQLAlchemy para manejar la base de datos.  
 
 ## ⚡ Instalación y Ejecución
 1. Clona el repositorio:
@@ -36,6 +37,10 @@ Un proyecto de práctica tipo CRUD para gestionar contactos. Se encuentra en des
    ```sh
    python index.py
    ```
+6. Abre tu navegador y accede a `http://localhost:5000`.
+
+## 📷 Captura de Pantalla
+![Lista de Contactos](ruta/a/tu/imagen.png)
 
 ## 📜 Licencia
 Este proyecto es solo para fines de práctica. ¡Úsalo y modifícalo como quieras! 🚀
