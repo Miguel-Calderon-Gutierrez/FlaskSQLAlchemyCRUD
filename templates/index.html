@@ -51,7 +51,7 @@
           <td>{{contact.email}}</td>
           <td>{{contact.phone}}</td>
           <td>
-            <a href="{{url_for('Contacts.update')}}"><i class="fas fa-edit"></i></a>
+            <a href="{{url_for('Contacts.update',id = contact.id)}}"><i class="fas fa-edit"></i></a>
             <a href="{{url_for('Contacts.delete',id = contact.id)}}"><i class="fas fa-trash"></i></a>
           </td>
         </tr>
